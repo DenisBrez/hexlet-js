@@ -1,7 +1,7 @@
 {
- "name": "hexlet",
- "type": "module",
+  "name": "hexlet-js",
   "version": "1.0.0",
+	"type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/DenisBrez/hexlet-js.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DenisBrez/hexlet-js/issues"
   },
-  "homepage": "https://github.com/DenisBrez/hexlet-js#readme"
+  "homepage": "https://github.com/DenisBrez/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
